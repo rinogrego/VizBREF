@@ -102,7 +102,7 @@ There are four categories available for comparisons, each with their own metrics
 - Gunicorn
 - Heroku
 
-## Deployment Locally (Windows)
+<!-- ## Deployment Locally (Windows)
 1. Create a folder for the project and then go to that folder
 2. Activate virtual environment
 ```
@@ -125,4 +125,4 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
-7. Accessing the website, go to: 127.0.0.1:8000
+7. Accessing the website, go to: 127.0.0.1:8000 -->
