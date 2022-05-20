@@ -1,0 +1,8 @@
+db.sqlite3
+.env
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
