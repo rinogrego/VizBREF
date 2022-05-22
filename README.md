@@ -1,4 +1,5 @@
 # VizBREF
+[Fbref](https://fbref.com/en/) statistics visualization automation website.
 
 <!-- <p align="middle">
   <img src="/images/fb-logo.svg" height="150" width="350"/>
@@ -6,7 +7,7 @@
 </p> -->
 <div align="center">
   <h2>Preview</h2>
-  <img src="/dashboard/static/images/Vizbref.PNG" height="100%" width="100%" /> <br><br>
+  <img src="/dashboard/static/images/Vizbref.PNG" height="270" width="480" /> <br><br>
   <img src="/dashboard/static/images/vizbref-compare.gif" height="100%" width="100%" />
 </div>
 <div align="center">
@@ -15,7 +16,6 @@
   <img src="/dashboard/static/images/sr-logo.svg" height="150" width="350" />
 </div>
 
-[Fbref](https://fbref.com/en/) statistics visualization automation website.
 
 ## About
 A website to automatically generate visualizations of comparisons between 2 football players with data scraped from fbref website. Scraping, data cleaning, data aggregation, and visualizations are done automatically at the backend. Players covered are players listed from fbref data from 5 leagues: Premier League, La Liga, Bundesliga, Serie A, and Ligue 1, in season 2021/2022 (May of 2022). 
