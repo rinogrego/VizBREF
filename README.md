@@ -1,12 +1,12 @@
 # VizBREF
-[Fbref](https://fbref.com/en/) statistics visualization automation website.
+<!-- [Fbref](https://fbref.com/en/) statistics visualization automation website. -->
 
 <!-- <p align="middle">
   <img src="/images/fb-logo.svg" height="150" width="350"/>
   <img src="/images/sr-logo.svg" height="150" width="350"/>
 </p> -->
 <div align="center">
-  <h2>Preview</h2>
+  <!-- <h2>Preview</h2> -->
   <img src="/dashboard/static/images/Vizbref.PNG" height="270" width="480" /> <br><br>
   <img src="/dashboard/static/images/vizbref-compare.gif" height="100%" width="100%" />
 </div>
