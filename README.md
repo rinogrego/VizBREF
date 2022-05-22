@@ -6,7 +6,7 @@
 </p> -->
 <div align="center">
   <h3>Preview</h3>
-  <img src="/dashboard/static/images/Vizbref.png" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
+  <img src="/dashboard/static/images/Vizbref.PNG" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
   <img src="/dashboard/static/images/vizbref-compare.gif" height="150" width="350" />
 </div>
 <div align="center">
