@@ -9,3 +9,4 @@ List of things in consideration to be added in the future. Might be implemented 
 - 3, 4, and 5 players choice
 - Implement Nginx because why not
 - Deploy in AWS or Google Cloud
+- Refactor code instead of multiple cleaning functions for each category, put it into 1 function that merges all different table categories into 1 big dataframe and then make it passable to any category plotting functions
