@@ -6,8 +6,8 @@
 </p> -->
 <div align="center">
   <h2>Preview</h2>
-  <img src="/dashboard/static/images/Vizbref.PNG" height="100%" width="100%" /> <br><br>
-  <img src="/dashboard/static/images/vizbref-compare.gif" height="100%" width="100%" >
+  <img src="/dashboard/static/images/Vizbref.PNG" height="500" width="700" /> <br><br>
+  <img src="/dashboard/static/images/vizbref-compare.gif" height="500" width="700" />
 </div>
 <div align="center">
   <h2>Data Source</h2>
