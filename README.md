@@ -5,10 +5,14 @@
   <img src="/images/sr-logo.svg" height="150" width="350"/>
 </p> -->
 <div align="center">
-  <!-- <div style="display: flex;"> -->
-    <img src="/dashboard/static/images/fb-logo.svg" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
-    <img src="/dashboard/static/images/sr-logo.svg" height="150" width="350" />
-  <!-- </div> -->
+  <h3>Preview</h3>
+  <img src="/dashboard/static/images/Vizbref.png" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
+  <img src="/dashboard/static/images/vizbref-compare.gif" height="150" width="350" />
+</div>
+<div align="center">
+  <h3>Data Source</h3>
+  <img src="/dashboard/static/images/fb-logo.svg" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
+  <img src="/dashboard/static/images/sr-logo.svg" height="150" width="350" />
 </div>
 
 [Fbref](https://fbref.com/en/) statistics visualization automation website.
