@@ -5,12 +5,12 @@
   <img src="/images/sr-logo.svg" height="150" width="350"/>
 </p> -->
 <div align="center">
-  <h3>Preview</h3>
-  <img src="/dashboard/static/images/Vizbref.PNG" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
-  <img src="/dashboard/static/images/vizbref-compare.gif" height="150" width="350" />
+  <h2>Preview</h2>
+  <img src="/dashboard/static/images/Vizbref.PNG" height="500" width="700" /> <br><br>
+  <iframe src="/dashboard/static/images/vizbref-compare.gif" height="500" width="700" ></iframe>
 </div>
 <div align="center">
-  <h3>Data Source</h3>
+  <h2>Data Source</h2>
   <img src="/dashboard/static/images/fb-logo.svg" height="150" width="350" /> &nbsp; &nbsp; &nbsp;
   <img src="/dashboard/static/images/sr-logo.svg" height="150" width="350" />
 </div>
