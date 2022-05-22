@@ -6,8 +6,8 @@
   <img src="/images/sr-logo.svg" height="150" width="350"/>
 </p> -->
 <div align="center">
-  <!-- <h2>Preview</h2> -->
-  <img src="/dashboard/static/images/Vizbref.PNG" height="270" width="480" /> <br><br>
+  <h2>Preview</h2>
+  <img src="/dashboard/static/images/Vizbref.PNG" height="270" width="480" /> <br>
   <img src="/dashboard/static/images/vizbref-compare.gif" height="100%" width="100%" />
 </div>
 <div align="center">
