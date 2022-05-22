@@ -7,7 +7,7 @@
 <div align="center">
   <h2>Preview</h2>
   <img src="/dashboard/static/images/Vizbref.PNG" height="100%" width="100%" /> <br><br>
-  <img src="/dashboard/static/images/vizbref-compare.gif" height="100%" width="100%" ></img>
+  <img src="/dashboard/static/images/vizbref-compare.gif" height="100%" width="100%" >
 </div>
 <div align="center">
   <h2>Data Source</h2>
